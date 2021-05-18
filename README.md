@@ -38,6 +38,8 @@ t6 = [6,8],
 
 t7 = [1,6]
 
+![ㅋㅇㅋ12_210518_161209](https://user-images.githubusercontent.com/80369805/118608183-5e7bb180-b7f4-11eb-89a0-057b905b36d0.jpg)
+
 
 
 ### 시간복잡도
